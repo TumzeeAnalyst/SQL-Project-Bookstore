@@ -4,7 +4,7 @@ This is the exploratory data analysis of bookstore dataset using MySQL server.
 Here I am just going to explore the data, to find trends and patterns of the dataset
 
 ### Dataset Source
-[Download here](https://www.kaggle.com/datasets/swaptr/layoffs-2022)
+[Download here](https://www.kaggle.com/datasets/armanmanteghi/bookstore-sales-cleaning-and-preprocessing-data?select=Initial_Data.csv)
 
 ### Tools
 - MySQL Server
